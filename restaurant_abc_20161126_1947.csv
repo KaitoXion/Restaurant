@@ -1,0 +1,12 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,GitHub ID,Integration,Owned By,Comment,Comment,Task,Task Status,Task,Task Status
+133910537,Display menu to customer,display menu to customer,1,7-Nov-16,13-Nov-16,feature,3,accepted,8-Nov-16,7-Nov-16,,Jasper Pong,"User want to show a menu to display to customer, so that they can choose the item that they want to order.",https://www.pivotaltracker.com/story/show/133910537,,,Jasper Pong,"Create menu interface; that show menu items (Jasper Pong - Nov 8, 2016)","Add menu items price to each of the item in the menu. (Jasper Pong - Nov 8, 2016)",Create Interface with showing menu items,not completed,Add menu item price to each of the item in the menu.,not completed
+133911287,Customer Order List,customer order list,3,21-Nov-16,27-Nov-16,feature,2,finished,8-Nov-16,,,Jasper Pong,"An interface to show what the customer has made order on, display & calculate the total payment are to be made.",https://www.pivotaltracker.com/story/show/133911287,,,Jasper Pong,"Create an interface to display ordered item.
+ (Jasper Pong - Nov 8, 2016)","Create a module and display section to show the total payment of all the ordered items. (Jasper Pong - Nov 8, 2016)",An interface to display ordered items.,not completed,module to calculate the total payment,not completed
+,,,,,,,,,,,,,,,,,,,,,,,
+Changest Have been made,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Next Change test branch,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+another test,,,,,,,,,,,,,,,,,,,,,,,
